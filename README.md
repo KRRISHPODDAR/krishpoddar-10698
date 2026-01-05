@@ -1,30 +1,30 @@
 # ⚡ Electricity Bill Calculator (C Language)
 
 ## 📌 Project Description
-The **Electricity Bill Calculator** is a console-based program developed in **C language** that calculates the total electricity bill based on the number of units consumed.  
-It follows a **slab-based billing system**, where different unit ranges are charged at different rates.
+The **Electricity Bill Calculator** is a console-based application developed using the **C programming language**.  
+It calculates the total electricity bill based on the number of units consumed by a consumer by applying a **slab-based billing system**.
 
-This project is designed as a beginner-friendly mini project and demonstrates the practical use of conditional statements in C.
+This project is designed as a beginner-friendly mini project and demonstrates the real-world application of conditional statements and arithmetic operations in C.
 
 ---
 
 ## 🎯 Aim of the Project
 The aim of this project is to:
-- Calculate electricity bills using **slab-wise tariff rates**
-- Accept consumer details and unit consumption as input
-- Display the final payable amount clearly
-- Understand real-world problem solving using C programming
+- Calculate electricity bills based on **unit consumption**
+- Apply **slab-wise tariff rates**
+- Display the final electricity bill clearly
+- Understand practical problem-solving using C programming
 
 ---
 
 ## ❓ Why This Project?
-- Electricity billing is a **real-life and practical problem**
-- Helps in understanding:
-  - `if-else` statements
-  - User input/output
+- Electricity billing is a **real-life and commonly used system**
+- Helps beginners understand:
+  - `if-else` conditions
+  - User input and output
   - Logical decision making
-- Suitable for **Class XII and college-level practicals**
-- Easy to explain during viva examinations
+- Frequently used as a **Class XII / college mini project**
+- Simple to implement and explain during viva
 
 ---
 
@@ -32,16 +32,17 @@ The aim of this project is to:
 This project can be used to:
 - Calculate household electricity bills
 - Demonstrate slab-based billing logic
-- Serve as a base for advanced billing systems
-- Help students learn applied programming concepts
+- Serve as a foundation for advanced billing systems
+- Help students apply programming concepts to real-world problems
 
 ---
 
 ## ⚙️ Features
-- Console-based application
-- Takes consumer details as input
-- Calculates bill using **slab-based rates**
-- Displays total electricity bill in a formatted output
+- Console-based C program
+- Accepts consumer details and units consumed
+- Uses **slab-based billing**
+- Displays formatted bill output
+- Easy to modify and extend
 
 ---
 
@@ -53,21 +54,21 @@ This project can be used to:
 | 101 – 200     | ₹2.50         |
 | Above 200     | ₹4.00         |
 
-*(Slab rates can be modified easily in the source code.)*
+*(The slab rates can be modified directly in the source code.)*
 
 ---
 
 ## 🖥️ Sample Output
-
 Below is the screenshot of the program output after execution:
 
 ![Program Output](screenshots/screenshot.jpeg)
 
 ---
 
-## 📂 Project Structure
-electricity-bill-calculator/
-├── electricity_bill.c
+## 📂 Repository Structure
+krishpoddar-10698/
+└── electricity-bill-calculator/
+├── electricity-bill.c
 ├── README.md
 └── screenshots/
 └── screenshot.jpeg
@@ -76,12 +77,12 @@ electricity-bill-calculator/
 ---
 
 ## 🚀 Future Scope
-The project can be enhanced by:
+The project can be further enhanced by:
 - Adding electricity duty or GST
-- Storing consumer bill records in files
-- Developing a GUI-based version
-- Integrating with databases
-- Creating web or mobile versions
+- Saving bill details to a file
+- Creating a GUI-based version
+- Integrating with a database
+- Developing a web or mobile application
 
 ---
 
@@ -91,4 +92,4 @@ The project can be enhanced by:
 ---
 
 ## 🏁 Conclusion
-The Electricity Bill Calculator project successfully demonstrates the use of basic C programming concepts to solve a real-world problem. It is an effective beginner-level project that strengthens logical thinking and programming skills.
+The Electricity Bill Calculator project successfully demonstrates how basic C programming concepts can be applied to solve a real-world problem. It is an effective beginner-level project that strengthens logical thinking and practical understanding of slab-based billing systems.
